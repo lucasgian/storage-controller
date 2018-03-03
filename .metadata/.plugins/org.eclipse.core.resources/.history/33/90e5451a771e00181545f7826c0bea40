@@ -1,0 +1,6 @@
+package com.storage.implementation;
+
+@Controller
+public class storageController {
+
+}

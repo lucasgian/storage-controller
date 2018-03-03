@@ -1,0 +1,11 @@
+package com.storage.implementation;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class storageController {
+
+	public String index(){
+		return "index";
+	}
+}
